@@ -1,0 +1,94 @@
+023-07-18 17:04:40  recovering file result 0
+2023-07-18 17:04:40  recovering file infos: {
+  "dest" : "\/Users\/akotak\/deleted_content_July18_2023\/Tenorshare 4DDiG\/Passport\/HFS+ Private Directory Data_\/dir_178150\/Library\/PrivateFrameworks\/Slideshows.framework\/Versions\/A\/Resources\/Content\/Styles\/KenBurns.mrbStyle\/Contents\/Resources\/English.lproj\/LocalizedDescription.plist",
+  "storage" : null,
+  "source_path" : "",
+  "size" : 0,
+  "partition_index" : 0,
+  "disk_index" : 4,
+  "type" : 0
+}
+2023-07-18 17:04:40  recovering file result 0
+2023-07-18 17:04:40  recovery finished, save path: /Users/akotak/deleted_content_July18_2023/Tenorshare 4DDiG
+2023-07-18 17:04:40  -[RecoverWindowController diskRecoveryDidFinished:targetPath:]
+2023-07-18 17:36:22  getted partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B, scaning partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B
+2023-07-18 17:36:22  file size is 68845
+2023-07-18 17:36:28  preview recover success...
+2023-07-18 17:36:28  -[PreviewWindowController showFile:atPath:], show preview item: (null)
+2023-07-18 17:36:34  -[PreviewWindowController closePreview]
+2023-07-18 17:36:34  -[PreviewWindowController dealloc]
+2023-07-18 17:36:40  getted partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B, scaning partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B
+2023-07-18 17:36:40  file size is 39096
+2023-07-18 17:36:40  preview recover success...
+2023-07-18 17:36:40  -[PreviewWindowController showFile:atPath:], show preview item: (null)
+2023-07-18 17:36:50  -[PreviewWindowController closePreview]
+2023-07-18 17:36:50  -[PreviewWindowController dealloc]
+2023-07-18 17:37:23  getted partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B, scaning partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B
+2023-07-18 17:37:23  file size is 10265
+2023-07-18 17:37:27  preview recover success...
+2023-07-18 17:37:27  -[PreviewWindowController showFile:atPath:], show preview item: (null)
+2023-07-18 17:37:30  disconnected device BSDName: disk4s2, mount point: /Volumes/Passport
+2023-07-18 17:37:31  get partition uuid failed.
+2023-07-18 17:37:31  scanning partition: DiskPartition: name = Passport, mount point = /Volumes/Passport, deviceID = /dev/disk4s2, partitionUUID = 51049801-27E1-3F47-A72E-AA92379CC84B, diskIndex = 4, partitionIndex = 0
+2023-07-18 17:37:48  get partition uuid failed.
+2023-07-18 17:37:49  get partition uuid failed.
+2023-07-18 17:37:51  -[PreviewWindowController closePreview]
+2023-07-18 17:37:51  disconnected device BSDName: disk4s1, mount point: (null)
+2023-07-18 17:37:51  -[PreviewWindowController dealloc]
+2023-07-18 17:37:53  get partition uuid failed.
+2023-07-18 17:38:38  get partition uuid failed.
+2023-07-18 17:38:39  get partition uuid failed.
+2023-07-18 17:38:40  get partition uuid failed.
+2023-07-18 17:38:41  get partition uuid failed.
+2023-07-18 17:38:42  get partition uuid failed.
+2023-07-18 17:38:43  get partition uuid failed.
+2023-07-18 17:38:44  get partition uuid failed.
+2023-07-18 17:38:45  get partition uuid failed.
+2023-07-18 17:38:45  get partition uuid failed.
+2023-07-18 17:39:03  deviceConnect device BSDName: disk6s2, mount point: (null)
+2023-07-18 17:39:04  getted partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B, scaning partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B
+2023-07-18 17:39:04  scanning partition: DiskPartition: name = Passport, mount point = /Volumes/Passport, deviceID = /dev/disk4s2, partitionUUID = 51049801-27E1-3F47-A72E-AA92379CC84B, diskIndex = 4, partitionIndex = 0
+2023-07-18 17:39:04  deviceConnect device BSDName: disk6s1, mount point: (null)
+2023-07-18 17:39:05  getted partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B, scaning partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B
+2023-07-18 17:39:05  scanning partition: DiskPartition: name = Passport, mount point = /Volumes/Passport, deviceID = /dev/disk4s2, partitionUUID = 51049801-27E1-3F47-A72E-AA92379CC84B, diskIndex = 4, partitionIndex = 0
+2023-07-18 17:39:08  getted partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B, scaning partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B
+2023-07-18 17:39:08  file size is 97611
+2023-07-18 17:39:08  preview recover success...
+2023-07-18 17:39:08  -[PreviewWindowController showFile:atPath:], show preview item: (null)
+2023-07-18 17:39:32  -[PreviewWindowController closePreview]
+2023-07-18 17:39:32  -[PreviewWindowController dealloc]
+2023-07-18 17:39:36  getted partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B, scaning partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B
+2023-07-18 17:39:36  file size is 92602
+2023-07-18 17:39:36  preview recover success...
+2023-07-18 17:39:36  -[PreviewWindowController showFile:atPath:], show preview item: (null)
+2023-07-18 17:39:57  -[PreviewWindowController closePreview]
+2023-07-18 17:39:57  -[PreviewWindowController dealloc]
+2023-07-18 17:40:20  getted partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B, scaning partition uuid: 51049801-27E1-3F47-A72E-AA92379CC84B
+2023-07-18 17:40:20  file size is 385220
+2023-07-18 17:40:20  preview recover success...
+2023-07-18 17:40:20  -[PreviewWindowController showFile:atPath:], show preview item: (null)
+2023-07-18 17:40:23  -[PreviewWindowController closePreview]
+2023-07-18 17:40:23  -[PreviewWindowController dealloc]
+2023-07-18 17:40:55  -[ScaningViewController homeButtonClicked:]
+2023-07-18 17:41:02  -[ScaningViewController dealloc]
+2023-07-18 17:41:02  -[ScanEndingViewController dealloc]
+2023-07-18 17:41:21  -[HomeViewController dealloc]
+2023-07-18 17:42:05  total file count = 510787
+2023-07-18 17:49:07  -[ScaningViewController homeButtonClicked:]
+2023-07-18 17:49:18  -[ScaningViewController dealloc]
+2023-07-18 17:49:18  -[ScanEndingViewController dealloc]
+2023-07-18 18:03:43  start fast scan...
+2023-07-18 18:03:43  -[HomeViewController dealloc]
+2023-07-18 18:03:46  -[GABuriedManager pauseClickedGA], showDeepScanDate = 0
+2023-07-18 18:03:46  -[ScaningViewController partitionScanDidPause:]
+2023-07-18 18:03:46  start wait all file combine finished...
+2023-07-18 18:03:46  finished wait all file combine...
+2023-07-18 18:04:01  -[ScaningViewController homeButtonClicked:]
+2023-07-18 18:04:03  total file count = 0
+2023-07-18 18:04:05  -[ScaningViewController dealloc]
+2023-07-18 18:04:05  -[ScanEndingViewController dealloc]
+2023-07-18 18:05:01  External Disk Name is WD My Passport 0830 Media
+2023-07-18 18:05:01  -[HomeViewController dealloc]
+2023-07-18 18:05:12  >>> LZComboBox opened
+2023-07-18 18:05:13  >>> LZComboBox closed
+2023-07-18 18:05:15  -[MacPEViewController dealloc]
